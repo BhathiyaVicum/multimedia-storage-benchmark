@@ -1,0 +1,24 @@
+Multimedia Storage Research - Performance Summary
+==================================================
+
+Total data points: 120
+Runs combined: [1, 2, 3, 4, 5]
+Generated: 2025-10-25 12:47:38
+
+STORAGE SYSTEM PERFORMANCE:
+------------------------------
+HDFS:
+  Tests: 40
+  Success Rate: 100.0% upload, 100.0% download
+  Average Speed: 50.1 MB/s upload, 26.9 MB/s download
+
+MinIO:
+  Tests: 40
+  Success Rate: 100.0% upload, 100.0% download
+  Average Speed: 40.9 MB/s upload, 60.2 MB/s download
+
+MongoDB:
+  Tests: 40
+  Success Rate: 100.0% upload, 100.0% download
+  Average Speed: 25.0 MB/s upload, 26.5 MB/s download
+

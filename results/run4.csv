@@ -1,0 +1,25 @@
+storage_system,file_category,file_name,file_size_bytes,file_type,upload_time_sec,upload_speed_mb_sec,retrieval_time_sec,retrieval_speed_mb_sec,upload_success,retrieval_success,download_verified,cpu_usage,memory_usage,timestamp
+HDFS,small,img-sm-1.jpg,127120,.jpg,0.1008,1.2032,0.058,2.0908,True,True,True,15.5,82.1,2025-10-25 12:28:11
+MinIO,small,img-sm-1.jpg,127120,.jpg,0.0133,9.1067,0.0154,7.8925,True,True,True,15.9,82.2,2025-10-25 12:28:13
+MongoDB,small,img-sm-1.jpg,127120,.jpg,0.1906,0.6359,0.0199,6.0839,True,True,True,21.7,81.2,2025-10-25 12:28:15
+HDFS,small,img-sm-10.png,989436,.png,0.0915,10.3126,0.0771,12.2416,True,True,True,22.3,81.2,2025-10-25 12:28:17
+MinIO,small,img-sm-10.png,989436,.png,0.0845,11.1703,0.025,37.691,True,True,True,27.7,82.0,2025-10-25 12:28:19
+MongoDB,small,img-sm-10.png,989436,.png,0.0403,23.3981,0.0532,17.7414,True,True,True,20.5,82.9,2025-10-25 12:28:21
+HDFS,small,img-sm-11.png,830176,.png,0.4787,1.6539,0.0673,11.7578,True,True,True,28.1,82.4,2025-10-25 12:28:24
+MinIO,small,img-sm-11.png,830176,.png,0.0973,8.1364,0.0191,41.3914,True,True,True,39.2,84.1,2025-10-25 12:28:26
+MongoDB,small,img-sm-11.png,830176,.png,0.0267,29.6024,0.0402,19.6833,True,True,True,34.2,84.1,2025-10-25 12:28:28
+HDFS,medium,img-md-1.png,2230971,.png,0.4849,4.3877,0.0509,41.8245,True,True,True,36.4,84.3,2025-10-25 12:28:30
+MinIO,medium,img-md-1.png,2230971,.png,0.0946,22.4899,0.0145,146.5743,True,True,True,30.0,84.4,2025-10-25 12:28:33
+MongoDB,medium,img-md-1.png,2230971,.png,0.0671,31.7156,0.0544,39.0833,True,True,True,16.5,84.3,2025-10-25 12:28:35
+HDFS,medium,img-md-10.png,544361,.png,0.0754,6.8897,0.0352,14.7391,True,True,True,16.9,84.5,2025-10-25 12:28:37
+MinIO,medium,img-md-10.png,544361,.png,0.0393,13.2225,0.0304,17.0682,True,True,True,18.3,84.4,2025-10-25 12:28:39
+MongoDB,medium,img-md-10.png,544361,.png,0.0601,8.6345,0.0203,25.5608,True,True,True,18.0,84.1,2025-10-25 12:28:41
+HDFS,medium,img-md-11.png,134160,.png,0.4721,0.271,0.0968,1.3223,True,True,True,17.8,84.1,2025-10-25 12:28:44
+MinIO,medium,img-md-11.png,134160,.png,0.0219,5.8354,0.0407,3.1471,True,True,True,31.1,82.7,2025-10-25 12:28:46
+MongoDB,medium,img-md-11.png,134160,.png,0.0521,2.458,0.0109,11.6859,True,True,True,27.2,76.5,2025-10-25 12:28:48
+HDFS,large,vid-lg-1.mp4,580577946,.mp4,2.0985,263.8527,4.5579,121.4771,True,True,True,38.1,83.1,2025-10-25 12:28:56
+MinIO,large,vid-lg-1.mp4,580577946,.mp4,5.7751,95.8745,7.7193,71.7272,True,True,True,24.7,84.0,2025-10-25 12:29:12
+MongoDB,large,vid-lg-1.mp4,580577946,.mp4,11.2952,49.0193,8.4874,65.2361,True,True,True,38.0,87.2,2025-10-25 12:29:34
+HDFS,large,vid-lg-2.mp4,1088464301,.mp4,9.0636,114.5291,21.416,48.4703,True,True,True,29.4,82.3,2025-10-25 12:30:06
+MinIO,large,vid-lg-2.mp4,1088464301,.mp4,9.8358,105.5366,15.3305,67.7109,True,True,True,29.8,83.9,2025-10-25 12:30:34
+MongoDB,large,vid-lg-2.mp4,1088464301,.mp4,13.9733,74.2874,24.8089,41.8415,True,True,True,36.2,83.3,2025-10-25 12:31:15
