@@ -51,7 +51,3 @@ Empirical evaluation of three storage models for multimedia big data:
 - **MongoDB GridFS** → Suited for metadata-heavy applications  
 
 ---
-
----
-
-## 📁 Repository Structure
